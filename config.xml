@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://yourdomain/SampleProject" version="1.0.0" viewmodes="maximized">
+    <tizen:application id="Z6sSfg9Jo8.SampleProject" package="Z6sSfg9Jo8" required_version="1.0"/>
+    <content src="index.html"/>
+    <icon src="icon.png"/>
+    <name>SampleProject</name>
+    <tizen:privilege name="http://tizen.org/privilege/tizen"/>
+    <tizen:privilege name="http://tizen.org/privilege/setting"/>
+    <tizen:privilege name="http://tizen.org/privilege/system"/>
+    <tizen:privilege name="http://tizen.org/privilege/content.read"/>
+    <tizen:privilege name="http://tizen.org/privilege/content.write"/>
+  
+</widget>
